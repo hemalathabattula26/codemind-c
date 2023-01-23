@@ -16,7 +16,6 @@ int main()
         if(s>9)
         {
             q=s;
-            
         }
     }
     if(s==1||s==7)
